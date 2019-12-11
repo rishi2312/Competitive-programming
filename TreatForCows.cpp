@@ -8,6 +8,10 @@
 #define mod 1000000007
 #define fastio ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL);
 
+/*
+    Problem Statement -> https://www.spoj.com/problems/TRT/
+*/
+
 using namespace std;
 
 typedef pair<int,int> pii;
